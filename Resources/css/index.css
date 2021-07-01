@@ -1,0 +1,114 @@
+h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    text-transform: uppercase;  
+    text-align: end;
+    letter-spacing: 1px;
+    color: white;
+    margin-left: 30mm;
+    margin-bottom: 7mm;
+       
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    margin: 5mm;
+    color: white;
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(255, 145, 55);
+    margin: 0 auto;
+  }
+
+header {
+    background-color: rgb(255, 131, 29);
+    display: flex;
+    
+    justify-content:space-evenly;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    text-transform: uppercase;  
+    text-align: center;
+    color: white; 
+    font-size: 30px; 
+
+    
+}
+
+.menuButton {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* margin: 30px; */
+    display: block;
+    font-weight: 750;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+
+
+table {
+    background-color:white ;
+    padding: 25px;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700;
+    text-align: center;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 400px;
+    }
+
+#content2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 400px;
+    margin-top: 150px;
+}
+
+#content3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 400px;
+    margin-top: 150px;
+}
+
+#content4 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 400px;
+    margin-top: 150px;
+}
+
+.groen {
+    color: rgb(30, 241, 30);
+}
+
+.rood {
+    color: red;
+}
+
+.GS {
+    background-color: rgb(255, 131, 29);
+    display: flex;
+    
+    justify-content:space-evenly;
+    font-size: 30px;
+}
