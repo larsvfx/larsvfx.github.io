@@ -60,10 +60,12 @@ header {
     float: right;
     margin-top: 50px;
     border: 2px solid white;
+    box-shadow: 0 0 10px;
 }
 
 #Spanje {
     float: right;
     margin-top: 50px;
     border: 2px solid white;
+    box-shadow: 0 0 10px;
 }

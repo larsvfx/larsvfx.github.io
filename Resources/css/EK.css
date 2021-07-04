@@ -42,6 +42,7 @@ p {
     float: right;
     margin-top: 20px;
     border: 2px solid white;
+    box-shadow: 0 0 10px;
 }
 
 h2 {
@@ -57,6 +58,7 @@ h2 {
 #Groepsfase {
     float: right;
     border: 2px solid white;
+    box-shadow: 0 0 10px;
 }
 
 h3 {
