@@ -43,14 +43,27 @@ h2 {
 }
 
 header {
-    
+    background: rgb(255, 131, 29);
     display: flex;
-    
+    width: 100%;
     justify-content: space-around;
     font-size: 30px;
 }
 
-.terug {
+#terug {
     position: absolute;
-    margin: 0px;
+    left: 0px;
+    margin-left: 5px;
+}
+
+#argentina {
+    float: right;
+    margin-top: 50px;
+    border: 2px solid white;
+}
+
+#Spanje {
+    float: right;
+    margin-top: 50px;
+    border: 2px solid white;
 }
