@@ -8,6 +8,7 @@ body {
         font-size: 8px;
         font-family: "josefin sans", sans-serif;
         color: white;
+        margin-left: 2%;
     }
 } 
 @media only screen and (min-width: 981px) {
@@ -15,6 +16,7 @@ body {
         font-size: 1rem;
         font-family: "josefin sans", sans-serif;
         color: white;
+        margin-left: 2%;
     }
 }
 
@@ -23,6 +25,7 @@ body {
         font-size: 8px;
         font-family: "josefin sans", sans-serif;
         color: white;
+        margin-left: 2%;
     }
 } 
 @media only screen and (min-width: 981px) {
@@ -30,6 +33,7 @@ body {
         font-size: 1rem;
         font-family: "josefin sans", sans-serif;
         color: white;
+        margin-left: 2%;
     }
 }
 
