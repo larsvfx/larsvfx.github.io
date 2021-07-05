@@ -76,7 +76,26 @@ h4 {
 
 #Verdediging {
     float: right;
-    margin-top: 20px;
+    margin-right: 4%;
+    border: 2px solid white;
+    box-shadow: 0 0 10px;
+    
+    
+}
+
+
+#Middenveld {
+    float: right;
+    margin-right: 8%;
+    border: 2px solid white;
+    box-shadow: 0 0 10px;
+    
+    
+}
+
+#Aanval {
+    float: right;
+    margin-right: 10%;
     border: 2px solid white;
     box-shadow: 0 0 10px;
     
