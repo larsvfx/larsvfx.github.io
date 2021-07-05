@@ -30,6 +30,21 @@ body {
     
 }
 
+@media only screen and (max-width: 980px) {
+    div.resize {
+        font-size: 8px;
+        font-family: "josefin sans", sans-serif;
+        color: white;
+    }
+} 
+@media only screen and (min-width: 981px) {
+    div.resize {
+        font-size: 1rem;
+        font-family: "josefin sans", sans-serif;
+        color: white;
+    }
+}
+
 a:hover {
     opacity: 0.55;
   }

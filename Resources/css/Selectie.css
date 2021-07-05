@@ -1,6 +1,6 @@
 body {
     background-color: rgb(255, 145, 55);
-    margin: 0 auto;
+    margin:  auto;
   }
 
   .menuButton {
@@ -30,6 +30,23 @@ header {
     margin-left: 5px;
 }
 
+@media only screen and (max-width: 980px) {
+    div.resize {
+        font-size: 8px;
+        font-family: "josefin sans", sans-serif;
+        color: white;
+        margin-left: 5%;
+    }
+} 
+@media only screen and (min-width: 981px) {
+    div.resize {
+        font-size: 1rem;
+        font-family: "josefin sans", sans-serif;
+        color: white;
+        margin-left: 2%;
+    }
+}
+
 a:hover {
     opacity: 0.55;
   }
@@ -46,14 +63,12 @@ h1 {
 
   p {
     font-family: "josefin sans", sans-serif;
-    margin: 5mm;
     color: white;
     font-size: 1rem;
     font-weight: 600;
-    padding-left: 50px;
     margin-right: 700px;
     background-color: rgb(255, 131, 29);   
-    
+    margin-left: 10%;
     
 }
 
