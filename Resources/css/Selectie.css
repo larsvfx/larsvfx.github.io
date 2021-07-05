@@ -44,7 +44,7 @@ h1 {
     font-family: "josefin sans", sans-serif;
     margin: 5mm;
     color: white;
-    font-size: 50%;
+    font-size: 1rem;
     font-weight: 600;
     padding-left: 50px;
     margin-right: 700px;
@@ -57,7 +57,7 @@ h4 {
     font-family: "josefin sans", sans-serif;
     margin: 5mm;
     color: white;
-    font-size: 70%;
+    font-size: 17px;
     font-weight: 600;
     
 }

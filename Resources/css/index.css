@@ -31,6 +31,10 @@ header {
     font-size: 30px;
 }
 
+h3:hover {
+    background-color: yellow;
+  }
+
 h3 {
     font-family: "josefin sans", sans-serif;
     font-style: italic;
