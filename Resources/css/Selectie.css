@@ -86,7 +86,7 @@ h4 {
 
 #Middenveld {
     float: right;
-    margin-right: 8%;
+    margin-right: 6%;
     border: 2px solid white;
     box-shadow: 0 0 10px;
     
@@ -95,7 +95,7 @@ h4 {
 
 #Aanval {
     float: right;
-    margin-right: 10%;
+    margin-right: 5%;
     border: 2px solid white;
     box-shadow: 0 0 10px;
     
