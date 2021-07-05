@@ -30,6 +30,10 @@ header {
     margin-left: 5px;
 }
 
+a:hover {
+    opacity: 0.55;
+  }
+
 h1 {
     font-family: "josefin sans", sans-serif;
     font-style: italic;
