@@ -61,3 +61,19 @@ h4 {
     font-weight: 600;
     
 }
+
+#Doelmannen {
+    float: right;
+    margin-top: 20px;
+    border: 2px solid white;
+    box-shadow: 0 0 10px;
+    
+}
+
+#Verdediging {
+    float: right;
+    margin-top: 20px;
+    border: 2px solid white;
+    box-shadow: 0 0 10px;
+    
+}
